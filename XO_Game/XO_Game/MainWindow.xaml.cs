@@ -20,7 +20,7 @@ namespace XO_Game
     /// </summary>
     public partial class MainWindow : Window
     {
-        int turn = 0;
+        int turn = 1;
         public MainWindow()
         {
             InitializeComponent();
